@@ -8,3 +8,6 @@ descripción
   Deva
   Mojacar
   La Manga
+
+**Mis Jobis**
+  Me gusta ver videos, pasear y escribir.
